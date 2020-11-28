@@ -8,7 +8,9 @@ Simply run *flappybirdai.py* and watch an AI start training itself to play the g
 ## Sources
 
 **Image Download:** https://techwithtim.net/wp-content/up...
+
 **NEAT Documentation:** https://neat-python.readthedocs.io/en...
+
 **NEAT Article:** http://nn.cs.utexas.edu/downloads/pap...
 
 ## Video Tutorial
