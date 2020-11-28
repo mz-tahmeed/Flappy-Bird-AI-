@@ -20,4 +20,4 @@ You can view on the details of this project here: https://www.youtube.com/channe
 You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mz-tahmeed/Flappy-Bird-AI-/blob/master/flappybirdai.py)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mz-tahmeed/Flappy-Bird-AI-/blob/main/flappybirdai.py)
